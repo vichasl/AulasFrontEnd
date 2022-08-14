@@ -1,0 +1,21 @@
+#paragrafo{
+    font-family: arial;
+  }
+  
+  #titulo{
+    text-align: center;
+    font-family: Arial;
+  }
+
+  img{
+    width: 500px;
+  }
+
+  body{
+    background-color: blue;
+    color: white;
+  }
+
+  a{
+    color: white;
+  }
